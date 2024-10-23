@@ -1,2 +1,2 @@
 # javascript-
-A code Repo
+Author of Rajshree D Ghatol
